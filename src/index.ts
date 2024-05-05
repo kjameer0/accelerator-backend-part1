@@ -1,6 +1,6 @@
 import express, { Express, Request, Response } from "express";
 import dotenv from "dotenv";
-import path = require("path");
+import path from "node:path";
 
 dotenv.config();
 const port = process.env.PORT || 3000;
@@ -9,6 +9,8 @@ app.get("/", (req, res) => {
   res.send("typescript live");
 });
 
-app.listen(port, () => {
+const appServer = app.listen(port, () => {
   console.log("listening on server port " + port);
 });
+
+export default appServer;
