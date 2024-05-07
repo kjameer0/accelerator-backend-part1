@@ -1,10 +1,14 @@
 import express, { Express, Request, Response } from "express";
 import dotenv from "dotenv";
+import animeRouter from "./controller/anime";
 import path from "node:path";
+const app: Express = express();
 
 dotenv.config();
 const port = process.env.PORT || 3000;
-const app: Express = express();
+
+app.use("/anime", animeRouter);
+
 app.get("/", (req, res) => {
   res.send("typescript live");
 });

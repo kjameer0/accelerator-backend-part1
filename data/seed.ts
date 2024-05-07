@@ -1,6 +1,6 @@
 import path from "path";
 import { writeFile } from "fs/promises";
-class Anime {
+export class Anime {
   name: string;
   releaseYear: number;
   genre: string;
