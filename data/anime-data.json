@@ -1,0 +1,177 @@
+[
+  {
+    "name": "Naruto",
+    "releaseYear": 2002,
+    "genre": "action",
+    "studio": "Studio Pierrot",
+    "numberOfEpisodes": 0
+  },
+  {
+    "name": "Death Note",
+    "releaseYear": 2006,
+    "genre": "Thriller",
+    "studio": "Madhouse",
+    "numberOfEpisodes": 0
+  },
+  {
+    "name": "Attack on Titan",
+    "releaseYear": 2013,
+    "genre": "action",
+    "studio": "Wit Studio",
+    "numberOfEpisodes": 0
+  },
+  {
+    "name": "One Piece",
+    "releaseYear": 1999,
+    "genre": "Shounen",
+    "studio": "Toei Animation",
+    "numberOfEpisodes": 0
+  },
+  {
+    "name": "My Hero Academia",
+    "releaseYear": 2016,
+    "genre": "Shounen",
+    "studio": "Bones",
+    "numberOfEpisodes": 0
+  },
+  {
+    "name": "Fullmetal Alchemist: Brotherhood",
+    "releaseYear": 2009,
+    "genre": "Action",
+    "studio": "Bones",
+    "numberOfEpisodes": 0
+  },
+  {
+    "name": "Sword Art Online",
+    "releaseYear": 2012,
+    "genre": "Adventure",
+    "studio": "A-1 Pictures",
+    "numberOfEpisodes": 0
+  },
+  {
+    "name": "Tokyo Ghoul",
+    "releaseYear": 2014,
+    "genre": "Horror",
+    "studio": "Studio Pierrot",
+    "numberOfEpisodes": 0
+  },
+  {
+    "name": "Demon Slayer: Kimetsu no Yaiba",
+    "releaseYear": 2019,
+    "genre": "Action",
+    "studio": "ufotable",
+    "numberOfEpisodes": 0
+  },
+  {
+    "name": "One Punch Man",
+    "releaseYear": 2015,
+    "genre": "Action",
+    "studio": "Madhouse",
+    "numberOfEpisodes": 0
+  },
+  {
+    "name": "Your Lie in April",
+    "releaseYear": 2014,
+    "genre": "Drama",
+    "studio": "A-1 Pictures",
+    "numberOfEpisodes": 0
+  },
+  {
+    "name": "Steins;Gate",
+    "releaseYear": 2011,
+    "genre": "Science Fiction",
+    "studio": "White Fox",
+    "numberOfEpisodes": 0
+  },
+  {
+    "name": "Fairy Tail",
+    "releaseYear": 2009,
+    "genre": "Fantasy",
+    "studio": "A-1 Pictures",
+    "numberOfEpisodes": 0
+  },
+  {
+    "name": "Hunter x Hunter (2011)",
+    "releaseYear": 2011,
+    "genre": "Adventure",
+    "studio": "Madhouse",
+    "numberOfEpisodes": 0
+  },
+  {
+    "name": "Dragon Ball Z",
+    "releaseYear": 1989,
+    "genre": "Action",
+    "studio": "Toei Animation",
+    "numberOfEpisodes": 0
+  },
+  {
+    "name": "Neon Genesis Evangelion",
+    "releaseYear": 1995,
+    "genre": "Mecha",
+    "studio": "Gainax",
+    "numberOfEpisodes": 0
+  },
+  {
+    "name": "Code Geass: Lelouch of the Rebellion",
+    "releaseYear": 2006,
+    "genre": "Action",
+    "studio": "Sunrise",
+    "numberOfEpisodes": 0
+  },
+  {
+    "name": "Cowboy Bebop",
+    "releaseYear": 1998,
+    "genre": "Sci-Fi",
+    "studio": "Sunrise",
+    "numberOfEpisodes": 0
+  },
+  {
+    "name": "Clannad",
+    "releaseYear": 2007,
+    "genre": "Romance",
+    "studio": "Kyoto Animation",
+    "numberOfEpisodes": 0
+  },
+  {
+    "name": "Death Parade",
+    "releaseYear": 2015,
+    "genre": "Psychological",
+    "studio": "Madhouse",
+    "numberOfEpisodes": 0
+  },
+  {
+    "name": "Gurren Lagann",
+    "releaseYear": 2007,
+    "genre": "Mecha",
+    "studio": "Gainax",
+    "numberOfEpisodes": 0
+  },
+  {
+    "name": "Princess Mononoke",
+    "releaseYear": 1997,
+    "genre": "Fantasy",
+    "studio": "Studio Ghibli",
+    "numberOfEpisodes": 0
+  },
+  {
+    "name": "Ghost in the Shell: Stand Alone Complex",
+    "releaseYear": 2002,
+    "genre": "Sci-Fi",
+    "studio": "Production I.G",
+    "numberOfEpisodes": 0
+  },
+  {
+    "name": "Dragon Ball",
+    "releaseYear": 1986,
+    "genre": "Action",
+    "studio": "Toei Animation",
+    "numberOfEpisodes": 0
+  },
+  {
+    "name": "JoJo's Bizarre Adventure",
+    "releaseYear": 2012,
+    "genre": "Action",
+    "studio": "David Production",
+    "numberOfEpisodes": 0
+  }
+]
